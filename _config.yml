@@ -1,0 +1,28 @@
+name: Schismatic
+favicon: null
+layout_spectrum: 0.33127125236205757
+typography_spectrum: 0.4683768667746335
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5905271461233497
+  lightness: 0.6136886330787092
+  saturation: 0.9023486862424761
+  rhythmicContrast: 0.6984546517487615
+purpose: []
